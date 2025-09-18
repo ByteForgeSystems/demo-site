@@ -10,6 +10,9 @@ const App: React.FC = () => {
       <main className="site-main">
         <p>This is a basic static website now running as a React + TypeScript app.</p>
         <p>Edit <code>src/App.tsx</code> to add more content, links, or images.</p>
+        <p>Make sure to run <code>npm install</code> to install dependencies.</p>
+        <p>Then use <code>npm run dev</code> to start the development server.</p>
+        <p>Use <code>npm run build</code> to create a production build.</p>
       </main>
 
       <footer className="site-footer">
